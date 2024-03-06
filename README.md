@@ -1,2 +1,3 @@
-# day7
-filter, reduce
+I ATTACHED PREVIOUS COMMENTS AND I RESOLVED MY TASK AS PER DESCRIPTION. 
+
+COMMENTS:Kindly check it out task code and add comments.

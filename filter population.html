@@ -16,7 +16,7 @@ MyRqst.open("GET",URL);
 MyRqst.send()
 MyRqst.addEventListener("load",function(){
     const obj=JSON.parse(this.response)
-        let countries=obj.filter((x,y)=>x.population<=200000)
+        let countries=obj.filter((x,y)=>x.population<200000)
             
 
         console.log(countries)
